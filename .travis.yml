@@ -1,0 +1,7 @@
+language: minimal
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: ./config/travis/deploy_github_pages.sh
+  on:
+    branch: master
