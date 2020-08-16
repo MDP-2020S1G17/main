@@ -1,7 +1,16 @@
 language: minimal
+
+script: >-
+    ./gradlew asciidoctor
+
 deploy:
   skip_cleanup: true
   provider: script
   script: ./config/travis/deploy_github_pages.sh
   on:
     branch: master
+    
+cache:
+  directories:
+    - $HOME/.gradle/caches/
+    - $HOME/.gradle/wrapper/
