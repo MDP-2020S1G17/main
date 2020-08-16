@@ -34,6 +34,7 @@ asciidoctor {
         'site-root': "${sourceDir}",  // must be the same as sourceDir, do not modify
         'site-name': 'MDP AY20/21 S1 G17',
         'site-githuburl': 'https://github.com/MDP-2020S1G17/main',
+        'no-site-header': true
     ]
 
     options['template_dirs'].each {
