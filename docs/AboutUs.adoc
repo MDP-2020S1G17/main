@@ -1,0 +1,110 @@
+= About Us
+:site-section: AboutUs
+:relfileprefix: team/
+:imagesDir: images
+:stylesDir: stylesheets
+
+
+We are a team based in the http://scse.ntu.edu.sg[Computer Science and Engineering, Nanyang Technological University].
+
+== Project Team
+
+=== Truong Cong Cuong
+//image::yushao2.png[width="150", align="left"]
+{empty}[https://github.com/cuongquangnam[github]]
+
+
+Role: Group Leader, Algorithm Developer +
+
+
+'''
+
+=== Ang Yong Xin
+//image::yushao2.png[width="150", align="left"]
+{empty}[https://github.com/EvoYX[github]]
+
+
+Role: Arduino Developer+
+
+
+'''
+
+=== Arya Shashwat
+//image::yushao2.png[width="150", align="left"]
+{empty}[https://github.com/arya002[github]]
+
+
+Role: Android Developer+
+
+
+'''
+
+=== Chavalit Pramotedham
+//image::yushao2.png[width="150", align="left"]
+{empty}[https://github.com/chavalitpramotedham[github]]
+
+
+Role: Arduino Developer+
+
+
+'''
+
+=== Hoong Jia Qi
+//image::yushao2.png[width="150", align="left"]
+{empty}[https://github.com/jhoong003[github]]
+
+
+Role: Algorithm Developer+
+
+
+'''
+
+=== Lee Chong Yu
+//image::yushao2.png[width="150", align="left"]
+{empty}[https://github.com/cy1603[github]]
+
+
+Role: RPi Developer+
+
+
+'''
+
+=== Mukherjee Mitali Nirmallya
+//image::yushao2.png[width="150", align="left"]
+{empty}[https://github.com/mitali-m[github]]
+
+
+Role: Arduino Developer+
+
+
+'''
+
+=== Pang Yu Shao
+//image::yushao2.png[width="150", align="left"]
+{empty}[https://github.com/yushao2[github]]
+//{empty}[https://cs2113-ay1819s2-t11-3.github.io/main/team/yushao.html[portfolio]]
+
+Role: RPi Developer+
+
+
+'''
+
+=== Sannabhadti Shipra Deepak
+//image::yushao2.png[width="150", align="left"]
+{empty}[https://github.com/shipra00[github]]
+
+
+Role: Algorithm Developer+
+
+
+'''
+
+=== Yeo Kok Leong, Desmond
+//image::yushao2.png[width="150", align="left"]
+{empty}[https://github.com/desmondykl[github]]
+
+
+Role: RPi Developer+
+
+
+'''
