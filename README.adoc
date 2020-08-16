@@ -1,7 +1,8 @@
 = MDP
 ifdef::env-github,env-browser[:relfileprefix: docs/]
 
-* Team 17 for AY20/21 S1 MDP.
+= Group 17
+* AY20/21 S1 MDP.
 
 *Sub-components:*
 
