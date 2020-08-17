@@ -5,12 +5,12 @@
 
 
 
-== For Lab sessions (5 People inside)
+===== For Lab sessions (5 People inside)
 * 2 Arduino/ 2 Algo + 1 RPi (rotation basis)
 * Rest can be on campus for discussion (maybe LWN Library) --> Can meet up afterwards
 
 
-== Everyone to read through their technical materials/research and start work on their areas:
+===== Everyone to read through their technical materials/research and start work on their areas:
 
 *RPi* - Yu Shao to work on setting up the Raspbian OS on RPi
 
