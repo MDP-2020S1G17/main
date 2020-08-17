@@ -19,3 +19,4 @@ ifdef::env-github,env-browser[:relfileprefix: docs/]
 == Site Map
 
 * <<AboutUs#, About Us>>
+* <<MinutesIndex#, Meeting Minutes>>

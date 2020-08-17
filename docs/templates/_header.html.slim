@@ -30,6 +30,8 @@
         ul.navbar-nav
           li.nav-item
             =nav_link('AboutUs', 'AboutUs.html', 'About Us')
+          li.nav-item
+            =nav_link('MinutesIndex', 'MinutesIndex.html', 'Minutes')
           - if attr? 'site-githuburl'
             li.navitem
               a.nav-link href=(attr 'site-githuburl')
