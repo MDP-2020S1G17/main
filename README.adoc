@@ -1,7 +1,7 @@
 = MDP
 ifdef::env-github,env-browser[:relfileprefix: docs/]
 
-= Group 17
+== Group 17
 * AY20/21 S1 MDP.
 
 *Sub-components:*
