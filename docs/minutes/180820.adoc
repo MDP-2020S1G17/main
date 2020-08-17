@@ -7,7 +7,7 @@
 
 ===== For Lab sessions (5 People inside)
 * 2 Arduino/ 2 Algo + 1 RPi (rotation basis)
-* Rest can be on campus for discussion (maybe LWN Library) --> Can meet up afterwards
+* Rest can be on campus for discussion (maybe LWN Library) -> Can meet up afterwards
 
 
 ===== Everyone to read through their technical materials/research and start work on their areas:

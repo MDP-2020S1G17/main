@@ -4,7 +4,7 @@
 :imagesDir: images
 :stylesDir: stylesheets
 
-== A collection of meeting minutes can be found here
+A collection of meeting minutes can be found here
 
 * <<180820#, 18/08/2020(Mon)>>
 
