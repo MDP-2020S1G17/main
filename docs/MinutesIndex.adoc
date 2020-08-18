@@ -1,4 +1,4 @@
-= About Us
+= Minutes
 :site-section: Minutes
 :relfileprefix: minutes/
 :imagesDir: images
