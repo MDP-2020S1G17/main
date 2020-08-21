@@ -18,7 +18,7 @@ Mitali (Arduino), Arya (Android), Shoy (RPi) and Jia Qi to discuss the work brea
 
 Algo team takes care of other parts:
 
-1. Shipra: Introduction and Scope (excluding WBS)) 
+1. Shipra: Introduction and Scope (excluding WBS)
 
 2. Cuong: Approach and Project Organisation 
 
