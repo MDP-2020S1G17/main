@@ -6,14 +6,22 @@
 
 ===== Progress of our team
 *Arduino*: still assembling the robot, sensors remaining, not getting the readings yet
+
 *RPi*: setting up the environment (to be done by today), bluetooth coding
+
 *Android*: trying to test the bluetooth connection with RPi
+
 *Algo*: working on the map and project planning for team
 
 ===== To do
 Mitali (Arduino), Arya (Android), Shoy (RPi) and Jia Qi to discuss the work breakdown structure and schedule on weekend.
+
 Algo team takes care of other parts:
+
 1. Shipra: Introduction and Scope (excluding WBS)) 
+
 2. Cuong: Approach and Project Organisation 
+
 3. Jia Qi: Risk Management
+
 The project plan to be done by next Thursday
