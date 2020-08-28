@@ -4,5 +4,6 @@
 :stylesDir: ../stylesheets
 
 Everyone to input their progress in a Progress Checking document
+
 Arya to change the design and go for the lab next week.
 
