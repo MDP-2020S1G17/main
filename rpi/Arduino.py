@@ -1,7 +1,7 @@
 import serial
 
-SERIAL_PORT = ""
-BAUD_RATE = ""
+SERIAL_PORT = "/dev/ttyACM0"
+BAUD_RATE = 57600
 LOCALE = "utf-8"
 
 class Arduino:
@@ -54,7 +54,7 @@ class Arduino:
 			if len(message) > 0:
 				print("From Arduino:")
 				print(message.decode(LOCALE))
-				return message
+				return message.decode(LOCALE)
 			
 			return None
 
@@ -74,7 +74,7 @@ class Arduino:
  
 	def receivefromArduino(self):
 		while True:
-			message = arduino.receive()
+			message = self.receive()
 			#if message is not None:
 			#	print("readArduino {}".format(message))
 
@@ -83,7 +83,7 @@ class Arduino:
 		message = input()
 		while not(message =="quit"): 
 		#	print(message)
-			arduino.send(message)
+			self.send(message)
 			message = input()
 
 
