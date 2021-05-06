@@ -1,7 +1,7 @@
 import socket
 import os
 
-WIFI_IP = '192.168.17.17'
+WIFI_IP = '192.168.17.1'
 WIFI_PORT = 1234
 SOCKET_BUFFER_SIZE = 1024
 LOCALE = "utf-8"
@@ -64,7 +64,7 @@ class Algorithm:
 			if len(message) > 0:
 				print("From Algorithm:")
 				print(message.decode(LOCALE))
-				return message
+				return message.decode(LOCALE)
 			
 			return None
 

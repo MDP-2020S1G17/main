@@ -7,8 +7,8 @@ import os
 #os.system("sdptool browse 08:60:6E:A5:BB:B4 |egrep 'Service Name: |Channel:'") #Eg 08:60:6E:A5:BB:B4 is Nexus 7's address
 
 #Bluetooth configuration settings
-RFCOMM_PORT = ""
-RPI_MAC_ADDRESS = ""
+RFCOMM_PORT = 6
+RPI_MAC_ADDRESS = "B8:27:EB:11:52:B8" 
 SOCKET_BUFFER_SIZE = 1024
 LOCALE = "utf-8"
 
@@ -72,7 +72,7 @@ class Android:
 			if len(message) > 0:
 				print("From Android:")
 				print(message.decode(LOCALE))
-				return message
+				return message.decode(LOCALE)
 			
 			return None
 
